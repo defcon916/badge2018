@@ -1,7 +1,9 @@
 /*****
- * Simple Party Mode test for the DC916 badge.
+ * blinky stuff for the DC916 badge.
  * 
- * Is a *slightly* modified version of Adafruit's DotStar library strand test example.
+ * author: etherealsolid
+ * 
+ * v1
  */
 
 #include <Adafruit_DotStar.h>
